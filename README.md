@@ -1,3 +1,3 @@
 # learn-shell
 
-this is teh first changes
+this is the first changes
