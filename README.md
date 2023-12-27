@@ -1,3 +1,3 @@
 # learn-shell
 
-learn scripting
+this is teh first changes
