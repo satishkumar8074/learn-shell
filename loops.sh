@@ -4,7 +4,7 @@
 # choose for loop while we are using the inputs
 
 # loop is going to execute the set of commands in iterative way
-a=50
+a=10
 while [ "$a" -gt 0 ]; do
   echo Hello World
   a=${{$a-1}}
