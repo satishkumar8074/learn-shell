@@ -7,7 +7,7 @@
 a=10
 while [ "$a" -gt 0 ]; do
   echo Hello World
-  a=$[[$a-1]]
+  sleep 10
 done
 
 for fruit in apple banana orange grapes popeye ; do
