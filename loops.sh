@@ -1,13 +1,13 @@
-#while and for loop
+# while and for loop
 
-#choose while loop if you are using the expression
-#choose for loop while we are using the inputs
+# choose while loop if you are using the expression
+# choose for loop while we are using the inputs
 
-#loop is going to execute the set of commands in iterative way
+# loop is going to execute the set of commands in iterative way
 a=10
 while [ "$a" -gt 0 ]; do
   echo hello world
   a=$[[$a-1]]
   a=$a-1
   sleep 1
- done
+done
