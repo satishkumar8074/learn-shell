@@ -4,10 +4,11 @@
 # choose for loop while we are using the inputs
 
 # loop is going to execute the set of commands in iterative way
+
 a=10
 while [ "$a" -gt 0 ]; do
-  echo hello world
-  a=$[[$a-1]]
+  echo Hello World
+  a=${{$a-1}}
   a=$a-1
   sleep 1
 done
